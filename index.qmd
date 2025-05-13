@@ -7,7 +7,9 @@ format:
     css: styles.css
 ---
 
-Hi, I'm Mahima! This blog is dedicated to document my learning journey aimed at building a strong foundation in **bioinformatics** and biomedical data science. Through hands-on projects and focused learning, I will be documenting my progress in analyzing biological data, developing pipelines, and understanding the computational tools that drive modern biological research. Follow along as I learn and grow in this dynamic field. Whether you're a fellow learner or just curious, I hope you find something insightful here!
 
 ```{r, echo=FALSE}
 ```
+# Welcome to my blog!
+
+Hi, I'm Mahima! This blog is dedicated to document my learning journey aimed at building a strong foundation in **bioinformatics** and biomedical data science. Through hands-on projects and focused learning, I will be documenting my progress in analyzing biological data, developing pipelines, and understanding the computational tools that drive modern biological research. Follow along as I learn and grow in this dynamic field. Whether you're a fellow learner or just curious, I hope you find something insightful here!
